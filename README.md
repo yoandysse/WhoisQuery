@@ -13,10 +13,10 @@ pip install whoisquery
 ### As a Library
 
 ```python
-from whoisquery import SimpleWhois
+from whoisquery import WhoisQuery
 
 # Create a WHOIS lookup instance
-whois = SimpleWhois("example.com")
+whois = WhoisQuery("example.com")
 
 #Get WHOIS data
 data = whois.execute_whois()
