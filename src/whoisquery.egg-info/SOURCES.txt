@@ -11,9 +11,5 @@ src/WhoisQuery.egg-info/top_level.txt
 src/whoisquery/__init__.py
 src/whoisquery/cli.py
 src/whoisquery/core.py
-src/whoisquery.egg-info/PKG-INFO
-src/whoisquery.egg-info/SOURCES.txt
-src/whoisquery.egg-info/dependency_links.txt
-src/whoisquery.egg-info/top_level.txt
 tests/test_cli.py
 tests/test_core.py
