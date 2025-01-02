@@ -7,3 +7,4 @@
 /build.sh
 /dist
 /whoisquery.py
+**/__pycache__/
